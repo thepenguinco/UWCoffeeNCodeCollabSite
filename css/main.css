@@ -1,7 +1,12 @@
 body {
   background-color: #355C7D;
   font-family: 'Reenie Beanie', cursive;
+}
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1{
@@ -19,6 +24,7 @@ h3{
 
 img{
   margin: auto;
+  
 }
 
 p{
