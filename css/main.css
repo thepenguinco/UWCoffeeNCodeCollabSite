@@ -9,25 +9,25 @@ body {
     margin-right: auto;
 }
 
-h1{
+h1 {
   font-size: 45px;
   font-family: Quantico;
   text-align: center;
   color: #FFFFFF;
 }
 
-h3{
+h3 {
   font-size: 60px;
   text-align: center;
   color: #FFFFFF;
 }
 
-img{
+img {
   margin: auto;
   
 }
 
-p{
+p {
   font-size: 30px;
   text-align: center;
   font-family: 'Comic Sans MS', 'sans-serif';
@@ -37,3 +37,7 @@ p{
   color: blue;
   font-size: 1.5rem;
 }
+
+#add-rule {
+  color: black;
+  font-size: 2rem
